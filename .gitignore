@@ -1,0 +1,4 @@
+#.vscode/*
+#./tests/local_vars
+# Reminder: git rm --cached .vscode/tasks.json; git rm --cached ./tests/local_vars
+
